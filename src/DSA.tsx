@@ -1,6 +1,6 @@
 import "./App.css";
 import { ContentSkeleton } from "./Body/ContentSkeleton";
-import { DSA_Paths } from "./Body/Navigation/DSA-paths.util";
+import { DSA_Paths } from "./Body/Navigation/DSA-paths";
 
 export const DSA = () => {
   let topic = "DSA";
