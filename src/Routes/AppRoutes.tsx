@@ -23,8 +23,8 @@ const AppRoutes = () => {
         <Route path={ROUTES.UrlShortner} element={<UrlShortenerDesign />} />
         <Route path={ROUTES.TinyUrl} element={<ASampleSystemBlogs />} />
       </Route>
-            {/* 404 Page - Catch-all route for unknown paths */}
-            <Route path="*" element={<NotFound />} />
+      {/* 404 Page - Catch-all route for unknown paths */}
+      <Route path="*" element={<NotFound />} />
     </Routes>
   );
 };
