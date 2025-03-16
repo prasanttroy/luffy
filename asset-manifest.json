@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/luffy/static/css/main.0bbdb70c.css",
+    "main.js": "/luffy/static/js/main.5306c3b1.js",
+    "index.html": "/luffy/index.html",
+    "main.0bbdb70c.css.map": "/luffy/static/css/main.0bbdb70c.css.map",
+    "main.5306c3b1.js.map": "/luffy/static/js/main.5306c3b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbdb70c.css",
+    "static/js/main.5306c3b1.js"
+  ]
+}
