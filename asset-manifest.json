@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/luffy/static/css/main.0bbdb70c.css",
-    "main.js": "/luffy/static/js/main.5306c3b1.js",
+    "main.css": "/luffy/static/css/main.fa3b147b.css",
+    "main.js": "/luffy/static/js/main.b9d183fe.js",
     "index.html": "/luffy/index.html",
-    "main.0bbdb70c.css.map": "/luffy/static/css/main.0bbdb70c.css.map",
-    "main.5306c3b1.js.map": "/luffy/static/js/main.5306c3b1.js.map"
+    "main.fa3b147b.css.map": "/luffy/static/css/main.fa3b147b.css.map",
+    "main.b9d183fe.js.map": "/luffy/static/js/main.b9d183fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bbdb70c.css",
-    "static/js/main.5306c3b1.js"
+    "static/css/main.fa3b147b.css",
+    "static/js/main.b9d183fe.js"
   ]
 }
