@@ -1,0 +1,23 @@
+This is the Client page of Learning Platform for CS - Hello Devs
+Plan Phase 1
+-> Create a basic site with DSA, SD and Behavioral Interview Course
+-> Create a section for skill Up - Debugging Skills, React, JS, Next, CI/CD
+-> Create a section for interview preparation 
+-> Craete a section for projects
+
+All in React -
+Day 1 - Set up Routes
+Day 2 - Set up Homepage / CSS
+Day 3 - Set up Secondary page
+----------------------------------------------------------
+|Logo| Head |                   |Menu1| |Menu1| |Menu1| 
+            |---------------------------------------------
+  Topics    |   Content                        | Advertise ment
+            |                                  |
+            |                                  |
+            |                                  |
+            |                                  |
+            |                                  |
+-----------------------------------------------------------
+                        Footer
+-----------------------------------------------------------                        
